@@ -1,4 +1,4 @@
-### Hi there 👋
+### Born in Kazakhstan and living in South Korea. 
 
 - 🌱 I’m currently learning data science (AI/ML/DL)
 - 👯 I'm Looking To Collaborate with Data Scientists, Machine Learning Engineers, and developers.
