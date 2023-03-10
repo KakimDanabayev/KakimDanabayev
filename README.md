@@ -1,6 +1,6 @@
-### Born in Kazakhstan and living in South Korea. 
+### Welcome to my page. 
 
-- 🌱 I’m currently learning data science (AI/ML/DL)
+- 🌱 I’m passionate about AI & Data Science
 - 👯 I'm Looking To Collaborate with Data Scientists, Machine Learning Engineers, and developers.
 - 📫 How to reach me: kakim@hanyng.ac.kr
 
