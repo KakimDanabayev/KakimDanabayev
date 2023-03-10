@@ -1,6 +1,6 @@
 ### Welcome to my page. 
 
-- 🌱 I’m passionate about AI & Data Science
+- 🌱 I’m passionate about AI & Data Science.
 - 👯 I'm Looking To Collaborate with Data Scientists, Machine Learning Engineers, and developers.
 - 📫 How to reach me: kakim@hanyng.ac.kr
 
